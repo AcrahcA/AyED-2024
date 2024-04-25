@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\18_Charca_HastaQueSI\18_Charca_HastaQueSI\bin\Debug\18_Charca_HastaQueSI.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\18_Charca_HastaQueSI\18_Charca_HastaQueSI\obj\Debug\18_Charca_HastaQueSI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\18_Charca_HastaQueSI\18_Charca_HastaQueSI\bin\Debug\18_Charca_HastaQueSI.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\18_Charca_HastaQueSI\18_Charca_HastaQueSI\bin\Debug\18_Charca_HastaQueSI.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\18_Charca_HastaQueSI\18_Charca_HastaQueSI\obj\Debug\18_Charca_HastaQueSI.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\18_Charca_HastaQueSI\18_Charca_HastaQueSI\obj\Debug\18_Charca_HastaQueSI.pdb
