@@ -1,0 +1,7 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\bin\Debug\13_Charca_DiezVeces.exe.config
+C:\Users\Ariel Charca\OneDrive\Documentos\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\bin\Debug\13_Charca_DiezVeces.exe.config
+C:\Users\Ariel Charca\OneDrive\Documentos\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\bin\Debug\13_Charca_DiezVeces.exe
+C:\Users\Ariel Charca\OneDrive\Documentos\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\bin\Debug\13_Charca_DiezVeces.pdb
+C:\Users\Ariel Charca\OneDrive\Documentos\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\obj\Debug\13_Charca_DiezVeces.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Charca\OneDrive\Documentos\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\obj\Debug\13_Charca_DiezVeces.exe
+C:\Users\Ariel Charca\OneDrive\Documentos\Charca2024\Etapa1\13_Charca_DiezVeces\13_Charca_DiezVeces\obj\Debug\13_Charca_DiezVeces.pdb

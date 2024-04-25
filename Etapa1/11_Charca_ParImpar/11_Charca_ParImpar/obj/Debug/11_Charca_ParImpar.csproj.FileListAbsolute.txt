@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\11_Charca_ParImpar\11_Charca_ParImpar\bin\Debug\11_Charca_ParImpar.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\11_Charca_ParImpar\11_Charca_ParImpar\bin\Debug\11_Charca_ParImpar.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\11_Charca_ParImpar\11_Charca_ParImpar\bin\Debug\11_Charca_ParImpar.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\11_Charca_ParImpar\11_Charca_ParImpar\obj\Debug\11_Charca_ParImpar.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\11_Charca_ParImpar\11_Charca_ParImpar\obj\Debug\11_Charca_ParImpar.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\11_Charca_ParImpar\11_Charca_ParImpar\obj\Debug\11_Charca_ParImpar.pdb

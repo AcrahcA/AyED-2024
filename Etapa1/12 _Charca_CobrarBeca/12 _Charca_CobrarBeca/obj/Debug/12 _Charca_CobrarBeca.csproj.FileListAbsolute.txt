@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\12 _Charca_CobrarBeca\12 _Charca_CobrarBeca\bin\Debug\12 _Charca_CobrarBeca.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\12 _Charca_CobrarBeca\12 _Charca_CobrarBeca\bin\Debug\12 _Charca_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\12 _Charca_CobrarBeca\12 _Charca_CobrarBeca\bin\Debug\12 _Charca_CobrarBeca.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\12 _Charca_CobrarBeca\12 _Charca_CobrarBeca\obj\Debug\12 _Charca_CobrarBeca.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\12 _Charca_CobrarBeca\12 _Charca_CobrarBeca\obj\Debug\12 _Charca_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\12 _Charca_CobrarBeca\12 _Charca_CobrarBeca\obj\Debug\12 _Charca_CobrarBeca.pdb
