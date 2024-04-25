@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Charca2024\Etapa2\0_Charca_La carrera de Homero(LosSimpsons)\0_Charca_La carrera de Homero(LosSimpsons)\bin\Debug\0_Charca_La carrera de Homero(LosSimpsons).exe.config
+C:\Users\alumno.ET37\Downloads\Charca2024\Etapa2\0_Charca_La carrera de Homero(LosSimpsons)\0_Charca_La carrera de Homero(LosSimpsons)\obj\Debug\0_Charca_La carrera de Homero(LosSimpsons).csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Charca2024\Etapa2\0_Charca_La carrera de Homero(LosSimpsons)\0_Charca_La carrera de Homero(LosSimpsons)\bin\Debug\0_Charca_La carrera de Homero(LosSimpsons).exe
+C:\Users\alumno.ET37\Downloads\Charca2024\Etapa2\0_Charca_La carrera de Homero(LosSimpsons)\0_Charca_La carrera de Homero(LosSimpsons)\bin\Debug\0_Charca_La carrera de Homero(LosSimpsons).pdb
+C:\Users\alumno.ET37\Downloads\Charca2024\Etapa2\0_Charca_La carrera de Homero(LosSimpsons)\0_Charca_La carrera de Homero(LosSimpsons)\obj\Debug\0_Charca_La carrera de Homero(LosSimpsons).exe
+C:\Users\alumno.ET37\Downloads\Charca2024\Etapa2\0_Charca_La carrera de Homero(LosSimpsons)\0_Charca_La carrera de Homero(LosSimpsons)\obj\Debug\0_Charca_La carrera de Homero(LosSimpsons).pdb
