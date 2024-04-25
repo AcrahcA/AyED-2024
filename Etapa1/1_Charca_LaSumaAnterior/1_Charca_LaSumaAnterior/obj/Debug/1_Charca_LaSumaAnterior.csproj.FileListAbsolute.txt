@@ -1,5 +1,0 @@
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\1_Charca_LaSumaAnterior\1_Charca_LaSumaAnterior\bin\Debug\1_Charca_LaSumaAnterior.exe.config
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\1_Charca_LaSumaAnterior\1_Charca_LaSumaAnterior\bin\Debug\1_Charca_LaSumaAnterior.exe
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\1_Charca_LaSumaAnterior\1_Charca_LaSumaAnterior\bin\Debug\1_Charca_LaSumaAnterior.pdb
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\1_Charca_LaSumaAnterior\1_Charca_LaSumaAnterior\obj\Debug\1_Charca_LaSumaAnterior.exe
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\1_Charca_LaSumaAnterior\1_Charca_LaSumaAnterior\obj\Debug\1_Charca_LaSumaAnterior.pdb

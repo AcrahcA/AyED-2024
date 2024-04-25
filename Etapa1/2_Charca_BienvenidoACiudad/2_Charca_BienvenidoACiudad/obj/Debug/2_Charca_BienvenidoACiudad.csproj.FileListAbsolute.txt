@@ -1,6 +1,0 @@
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\2_Charca_BienvenidoACiudad\2_Charca_BienvenidoACiudad\bin\Debug\2_Charca_BienvenidoACiudad.exe.config
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\2_Charca_BienvenidoACiudad\2_Charca_BienvenidoACiudad\bin\Debug\2_Charca_BienvenidoACiudad.exe
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\2_Charca_BienvenidoACiudad\2_Charca_BienvenidoACiudad\bin\Debug\2_Charca_BienvenidoACiudad.pdb
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\2_Charca_BienvenidoACiudad\2_Charca_BienvenidoACiudad\obj\Debug\2_Charca_BienvenidoACiudad.csprojResolveAssemblyReference.cache
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\2_Charca_BienvenidoACiudad\2_Charca_BienvenidoACiudad\obj\Debug\2_Charca_BienvenidoACiudad.exe
-C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\2_Charca_BienvenidoACiudad\2_Charca_BienvenidoACiudad\obj\Debug\2_Charca_BienvenidoACiudad.pdb
