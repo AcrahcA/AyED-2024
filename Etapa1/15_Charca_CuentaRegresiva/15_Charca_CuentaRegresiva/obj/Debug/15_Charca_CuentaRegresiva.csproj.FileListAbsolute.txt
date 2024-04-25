@@ -1,0 +1,6 @@
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa1\15_Charca_CuentaRegresiva\15_Charca_CuentaRegresiva\bin\Debug\15_Charca_CuentaRegresiva.exe.config
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa1\15_Charca_CuentaRegresiva\15_Charca_CuentaRegresiva\bin\Debug\15_Charca_CuentaRegresiva.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa1\15_Charca_CuentaRegresiva\15_Charca_CuentaRegresiva\bin\Debug\15_Charca_CuentaRegresiva.pdb
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa1\15_Charca_CuentaRegresiva\15_Charca_CuentaRegresiva\obj\Debug\15_Charca_CuentaRegresiva.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa1\15_Charca_CuentaRegresiva\15_Charca_CuentaRegresiva\obj\Debug\15_Charca_CuentaRegresiva.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa1\15_Charca_CuentaRegresiva\15_Charca_CuentaRegresiva\obj\Debug\15_Charca_CuentaRegresiva.pdb

@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\16_Charca_FizzBuzz\16_Charca_FizzBuzz\bin\Debug\16_Charca_FizzBuzz.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\16_Charca_FizzBuzz\16_Charca_FizzBuzz\bin\Debug\16_Charca_FizzBuzz.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\16_Charca_FizzBuzz\16_Charca_FizzBuzz\bin\Debug\16_Charca_FizzBuzz.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\16_Charca_FizzBuzz\16_Charca_FizzBuzz\obj\Debug\16_Charca_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\16_Charca_FizzBuzz\16_Charca_FizzBuzz\obj\Debug\16_Charca_FizzBuzz.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\16_Charca_FizzBuzz\16_Charca_FizzBuzz\obj\Debug\16_Charca_FizzBuzz.pdb
