@@ -1,0 +1,6 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\0_Charca_CalculadoraBasica\0_Charca_CalculadoraBasica\bin\Debug\0_Charca_CalculadoraBasica.exe.config
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\0_Charca_CalculadoraBasica\0_Charca_CalculadoraBasica\obj\Debug\0_Charca_CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\0_Charca_CalculadoraBasica\0_Charca_CalculadoraBasica\bin\Debug\0_Charca_CalculadoraBasica.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\0_Charca_CalculadoraBasica\0_Charca_CalculadoraBasica\bin\Debug\0_Charca_CalculadoraBasica.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\0_Charca_CalculadoraBasica\0_Charca_CalculadoraBasica\obj\Debug\0_Charca_CalculadoraBasica.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\0_Charca_CalculadoraBasica\0_Charca_CalculadoraBasica\obj\Debug\0_Charca_CalculadoraBasica.pdb
