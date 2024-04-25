@@ -1,0 +1,5 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\3_Charca_DimensionesDeEsfera\3_Charca_DimensionesDeEsfera\bin\Debug\3_Charca_DimensionesDeEsfera.exe.config
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\3_Charca_DimensionesDeEsfera\3_Charca_DimensionesDeEsfera\bin\Debug\3_Charca_DimensionesDeEsfera.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\3_Charca_DimensionesDeEsfera\3_Charca_DimensionesDeEsfera\bin\Debug\3_Charca_DimensionesDeEsfera.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\3_Charca_DimensionesDeEsfera\3_Charca_DimensionesDeEsfera\obj\Debug\3_Charca_DimensionesDeEsfera.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa1\3_Charca_DimensionesDeEsfera\3_Charca_DimensionesDeEsfera\obj\Debug\3_Charca_DimensionesDeEsfera.pdb
