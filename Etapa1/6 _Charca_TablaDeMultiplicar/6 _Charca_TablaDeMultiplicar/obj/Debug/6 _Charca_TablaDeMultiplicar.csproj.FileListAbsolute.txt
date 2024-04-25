@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\6 _Charca_TablaDeMultiplicar\6 _Charca_TablaDeMultiplicar\bin\Debug\6 _Charca_TablaDeMultiplicar.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\6 _Charca_TablaDeMultiplicar\6 _Charca_TablaDeMultiplicar\bin\Debug\6 _Charca_TablaDeMultiplicar.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\6 _Charca_TablaDeMultiplicar\6 _Charca_TablaDeMultiplicar\bin\Debug\6 _Charca_TablaDeMultiplicar.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\6 _Charca_TablaDeMultiplicar\6 _Charca_TablaDeMultiplicar\obj\Debug\6 _Charca_TablaDeMultiplicar.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\6 _Charca_TablaDeMultiplicar\6 _Charca_TablaDeMultiplicar\obj\Debug\6 _Charca_TablaDeMultiplicar.pdb

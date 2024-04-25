@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\5 _Charca_ValorDouble\5 _Charca_ValorDouble\bin\Debug\5 _Charca_ValorDouble.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\5 _Charca_ValorDouble\5 _Charca_ValorDouble\bin\Debug\5 _Charca_ValorDouble.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\5 _Charca_ValorDouble\5 _Charca_ValorDouble\bin\Debug\5 _Charca_ValorDouble.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\5 _Charca_ValorDouble\5 _Charca_ValorDouble\obj\Debug\5 _Charca_ValorDouble.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\5 _Charca_ValorDouble\5 _Charca_ValorDouble\obj\Debug\5 _Charca_ValorDouble.pdb

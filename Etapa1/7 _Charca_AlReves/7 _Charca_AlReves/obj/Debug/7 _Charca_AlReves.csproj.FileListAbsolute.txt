@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\7 _Charca_AlReves\7 _Charca_AlReves\bin\Debug\7 _Charca_AlReves.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\7 _Charca_AlReves\7 _Charca_AlReves\bin\Debug\7 _Charca_AlReves.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\7 _Charca_AlReves\7 _Charca_AlReves\bin\Debug\7 _Charca_AlReves.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\7 _Charca_AlReves\7 _Charca_AlReves\obj\Debug\7 _Charca_AlReves.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa1\7 _Charca_AlReves\7 _Charca_AlReves\obj\Debug\7 _Charca_AlReves.pdb
