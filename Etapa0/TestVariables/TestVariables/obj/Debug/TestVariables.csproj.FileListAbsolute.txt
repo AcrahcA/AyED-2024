@@ -1,0 +1,6 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\TestVariables\TestVariables\bin\Debug\TestVariables.exe.config
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\TestVariables\TestVariables\bin\Debug\TestVariables.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\TestVariables\TestVariables\bin\Debug\TestVariables.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\TestVariables\TestVariables\obj\Debug\TestVariables.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\TestVariables\TestVariables\obj\Debug\TestVariables.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\TestVariables\TestVariables\obj\Debug\TestVariables.csprojResolveAssemblyReference.cache

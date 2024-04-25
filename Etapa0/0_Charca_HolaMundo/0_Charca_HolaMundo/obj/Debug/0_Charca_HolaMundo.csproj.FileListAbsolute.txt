@@ -1,0 +1,6 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\0_Charca_HolaMundo\0_Charca_HolaMundo\bin\Debug\0_Charca_HolaMundo.exe.config
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\0_Charca_HolaMundo\0_Charca_HolaMundo\bin\Debug\0_Charca_HolaMundo.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\0_Charca_HolaMundo\0_Charca_HolaMundo\bin\Debug\0_Charca_HolaMundo.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\0_Charca_HolaMundo\0_Charca_HolaMundo\obj\Debug\0_Charca_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\0_Charca_HolaMundo\0_Charca_HolaMundo\obj\Debug\0_Charca_HolaMundo.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\0_Charca_HolaMundo\0_Charca_HolaMundo\obj\Debug\0_Charca_HolaMundo.pdb

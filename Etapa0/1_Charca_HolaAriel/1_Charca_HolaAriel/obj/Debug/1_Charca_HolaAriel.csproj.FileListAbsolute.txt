@@ -1,0 +1,6 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\1_Charca_HolaAriel\1_Charca_HolaAriel\bin\Debug\1_Charca_HolaAriel.exe.config
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\1_Charca_HolaAriel\1_Charca_HolaAriel\bin\Debug\1_Charca_HolaAriel.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\1_Charca_HolaAriel\1_Charca_HolaAriel\bin\Debug\1_Charca_HolaAriel.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\1_Charca_HolaAriel\1_Charca_HolaAriel\obj\Debug\1_Charca_HolaAriel.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\1_Charca_HolaAriel\1_Charca_HolaAriel\obj\Debug\1_Charca_HolaAriel.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2015\Projects\Charca2024\Etapa0\1_Charca_HolaAriel\1_Charca_HolaAriel\obj\Debug\1_Charca_HolaAriel.pdb
