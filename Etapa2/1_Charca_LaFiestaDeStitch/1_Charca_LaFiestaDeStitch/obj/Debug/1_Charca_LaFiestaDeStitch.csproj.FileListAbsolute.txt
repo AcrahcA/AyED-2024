@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\1_Charca_LaFiestaDeStitch\1_Charca_LaFiestaDeStitch\bin\Debug\1_Charca_LaFiestaDeStitch.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\1_Charca_LaFiestaDeStitch\1_Charca_LaFiestaDeStitch\bin\Debug\1_Charca_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\1_Charca_LaFiestaDeStitch\1_Charca_LaFiestaDeStitch\bin\Debug\1_Charca_LaFiestaDeStitch.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\1_Charca_LaFiestaDeStitch\1_Charca_LaFiestaDeStitch\obj\Debug\1_Charca_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\1_Charca_LaFiestaDeStitch\1_Charca_LaFiestaDeStitch\obj\Debug\1_Charca_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\1_Charca_LaFiestaDeStitch\1_Charca_LaFiestaDeStitch\obj\Debug\1_Charca_LaFiestaDeStitch.pdb
