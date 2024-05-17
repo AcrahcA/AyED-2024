@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa3\4_Charca_PixelDreams\4_Charca_PixelDreams\bin\Debug\4_Charca_PixelDreams.exe.config
+C:\Users\alumno.ET37\Documents\Etapa3\4_Charca_PixelDreams\4_Charca_PixelDreams\bin\Debug\4_Charca_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\Etapa3\4_Charca_PixelDreams\4_Charca_PixelDreams\bin\Debug\4_Charca_PixelDreams.pdb
+C:\Users\alumno.ET37\Documents\Etapa3\4_Charca_PixelDreams\4_Charca_PixelDreams\obj\Debug\4_Charca_PixelDreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa3\4_Charca_PixelDreams\4_Charca_PixelDreams\obj\Debug\4_Charca_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\Etapa3\4_Charca_PixelDreams\4_Charca_PixelDreams\obj\Debug\4_Charca_PixelDreams.pdb
