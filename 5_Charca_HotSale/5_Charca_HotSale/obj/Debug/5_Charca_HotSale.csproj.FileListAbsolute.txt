@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Etapa3\5_Charca_HotSale\5_Charca_HotSale\bin\Debug\5_Charca_HotSale.exe.config
-C:\Users\alumno.ET37\Documents\Etapa3\5_Charca_HotSale\5_Charca_HotSale\bin\Debug\5_Charca_HotSale.exe
-C:\Users\alumno.ET37\Documents\Etapa3\5_Charca_HotSale\5_Charca_HotSale\bin\Debug\5_Charca_HotSale.pdb
-C:\Users\alumno.ET37\Documents\Etapa3\5_Charca_HotSale\5_Charca_HotSale\obj\Debug\5_Charca_HotSale.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Etapa3\5_Charca_HotSale\5_Charca_HotSale\obj\Debug\5_Charca_HotSale.exe
-C:\Users\alumno.ET37\Documents\Etapa3\5_Charca_HotSale\5_Charca_HotSale\obj\Debug\5_Charca_HotSale.pdb
