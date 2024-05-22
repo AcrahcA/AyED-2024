@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\6_Charca_ZEGARPG\6_Charca_ZEGARPG\bin\Debug\6_Charca_ZEGARPG.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\6_Charca_ZEGARPG\6_Charca_ZEGARPG\bin\Debug\6_Charca_ZEGARPG.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\6_Charca_ZEGARPG\6_Charca_ZEGARPG\bin\Debug\6_Charca_ZEGARPG.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\6_Charca_ZEGARPG\6_Charca_ZEGARPG\obj\Debug\6_Charca_ZEGARPG.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\6_Charca_ZEGARPG\6_Charca_ZEGARPG\obj\Debug\6_Charca_ZEGARPG.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\6_Charca_ZEGARPG\6_Charca_ZEGARPG\obj\Debug\6_Charca_ZEGARPG.pdb
