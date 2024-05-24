@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa2\3_Charca_VueltaAClases\3_Charca_VueltaAClases\bin\Debug\3_Charca_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Documents\Etapa2\3_Charca_VueltaAClases\3_Charca_VueltaAClases\bin\Debug\3_Charca_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\Etapa2\3_Charca_VueltaAClases\3_Charca_VueltaAClases\bin\Debug\3_Charca_VueltaAClases.pdb
+C:\Users\alumno.ET37\Documents\Etapa2\3_Charca_VueltaAClases\3_Charca_VueltaAClases\obj\Debug\3_Charca_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa2\3_Charca_VueltaAClases\3_Charca_VueltaAClases\obj\Debug\3_Charca_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\Etapa2\3_Charca_VueltaAClases\3_Charca_VueltaAClases\obj\Debug\3_Charca_VueltaAClases.pdb
