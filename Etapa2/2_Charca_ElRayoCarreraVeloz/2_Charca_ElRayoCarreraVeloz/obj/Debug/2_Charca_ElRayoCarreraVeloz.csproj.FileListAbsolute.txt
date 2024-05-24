@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\2_Charca_ElRayoCarreraVeloz\2_Charca_ElRayoCarreraVeloz\bin\Debug\2_Charca_ElRayoCarreraVeloz.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\2_Charca_ElRayoCarreraVeloz\2_Charca_ElRayoCarreraVeloz\bin\Debug\2_Charca_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\2_Charca_ElRayoCarreraVeloz\2_Charca_ElRayoCarreraVeloz\bin\Debug\2_Charca_ElRayoCarreraVeloz.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\2_Charca_ElRayoCarreraVeloz\2_Charca_ElRayoCarreraVeloz\obj\Debug\2_Charca_ElRayoCarreraVeloz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\2_Charca_ElRayoCarreraVeloz\2_Charca_ElRayoCarreraVeloz\obj\Debug\2_Charca_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\2_Charca_ElRayoCarreraVeloz\2_Charca_ElRayoCarreraVeloz\obj\Debug\2_Charca_ElRayoCarreraVeloz.pdb
