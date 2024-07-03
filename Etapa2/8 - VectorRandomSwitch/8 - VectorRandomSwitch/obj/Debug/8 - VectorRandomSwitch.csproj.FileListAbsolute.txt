@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\8 - VectorRandomSwitch\8 - VectorRandomSwitch\bin\Debug\8 - VectorRandomSwitch.exe.config
-C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\8 - VectorRandomSwitch\8 - VectorRandomSwitch\bin\Debug\8 - VectorRandomSwitch.exe
-C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\8 - VectorRandomSwitch\8 - VectorRandomSwitch\bin\Debug\8 - VectorRandomSwitch.pdb
-C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\8 - VectorRandomSwitch\8 - VectorRandomSwitch\obj\Debug\8 - VectorRandomSwitch.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\8 - VectorRandomSwitch\8 - VectorRandomSwitch\obj\Debug\8 - VectorRandomSwitch.exe
-C:\Users\alumno.ET37\Documents\Charca2024\Etapa2\8 - VectorRandomSwitch\8 - VectorRandomSwitch\obj\Debug\8 - VectorRandomSwitch.pdb
