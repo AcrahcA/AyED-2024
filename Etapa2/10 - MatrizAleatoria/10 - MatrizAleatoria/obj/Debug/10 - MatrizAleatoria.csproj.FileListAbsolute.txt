@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa 2\10 - MatrizAleatoria\10 - MatrizAleatoria\bin\Debug\10 - MatrizAleatoria.exe.config
+C:\Users\alumno.ET37\Documents\Etapa 2\10 - MatrizAleatoria\10 - MatrizAleatoria\bin\Debug\10 - MatrizAleatoria.exe
+C:\Users\alumno.ET37\Documents\Etapa 2\10 - MatrizAleatoria\10 - MatrizAleatoria\bin\Debug\10 - MatrizAleatoria.pdb
+C:\Users\alumno.ET37\Documents\Etapa 2\10 - MatrizAleatoria\10 - MatrizAleatoria\obj\Debug\10 - MatrizAleatoria.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa 2\10 - MatrizAleatoria\10 - MatrizAleatoria\obj\Debug\10 - MatrizAleatoria.exe
+C:\Users\alumno.ET37\Documents\Etapa 2\10 - MatrizAleatoria\10 - MatrizAleatoria\obj\Debug\10 - MatrizAleatoria.pdb
