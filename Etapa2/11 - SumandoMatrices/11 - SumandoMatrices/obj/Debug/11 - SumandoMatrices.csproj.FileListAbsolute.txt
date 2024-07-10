@@ -1,0 +1,6 @@
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\11 - SumandoMatrices\11 - SumandoMatrices\bin\Debug\11 - SumandoMatrices.exe.config
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\11 - SumandoMatrices\11 - SumandoMatrices\obj\Debug\11 - SumandoMatrices.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\11 - SumandoMatrices\11 - SumandoMatrices\bin\Debug\11 - SumandoMatrices.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\11 - SumandoMatrices\11 - SumandoMatrices\bin\Debug\11 - SumandoMatrices.pdb
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\11 - SumandoMatrices\11 - SumandoMatrices\obj\Debug\11 - SumandoMatrices.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\11 - SumandoMatrices\11 - SumandoMatrices\obj\Debug\11 - SumandoMatrices.pdb
