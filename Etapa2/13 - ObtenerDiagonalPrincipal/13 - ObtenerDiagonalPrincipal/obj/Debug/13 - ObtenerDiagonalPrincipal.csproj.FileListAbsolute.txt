@@ -1,0 +1,6 @@
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\13 - ObtenerDiagonalPrincipal\13 - ObtenerDiagonalPrincipal\bin\Debug\13 - ObtenerDiagonalPrincipal.exe.config
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\13 - ObtenerDiagonalPrincipal\13 - ObtenerDiagonalPrincipal\bin\Debug\13 - ObtenerDiagonalPrincipal.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\13 - ObtenerDiagonalPrincipal\13 - ObtenerDiagonalPrincipal\bin\Debug\13 - ObtenerDiagonalPrincipal.pdb
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\13 - ObtenerDiagonalPrincipal\13 - ObtenerDiagonalPrincipal\obj\Debug\13 - ObtenerDiagonalPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\13 - ObtenerDiagonalPrincipal\13 - ObtenerDiagonalPrincipal\obj\Debug\13 - ObtenerDiagonalPrincipal.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa2\13 - ObtenerDiagonalPrincipal\13 - ObtenerDiagonalPrincipal\obj\Debug\13 - ObtenerDiagonalPrincipal.pdb
