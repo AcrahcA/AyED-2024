@@ -1,0 +1,27 @@
+C:\Users\alumno.ET37\Documents\Etapa 2\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe.config
+C:\Users\alumno.ET37\Documents\Etapa 2\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe
+C:\Users\alumno.ET37\Documents\Etapa 2\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.pdb
+C:\Users\alumno.ET37\Documents\Etapa 2\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa 2\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.exe
+C:\Users\alumno.ET37\Documents\Etapa 2\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.pdb
+C:\Users\Ariel Charca\Downloads\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe.config
+C:\Users\Ariel Charca\Downloads\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.exe
+C:\Users\Ariel Charca\Downloads\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.pdb
+C:\Users\Ariel Charca\Downloads\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe
+C:\Users\Ariel Charca\Downloads\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.pdb
+C:\Users\Ariel Charca\Downloads\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.csprojResolveAssemblyReference.cache
+E:\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe.config
+E:\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.exe
+E:\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.pdb
+C:\Users\alumno.ET37\Desktop\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe.config
+C:\Users\alumno.ET37\Desktop\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.exe
+C:\Users\alumno.ET37\Desktop\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.pdb
+C:\Users\alumno.ET37\Desktop\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe
+C:\Users\alumno.ET37\Desktop\TP Grupo Matrices\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.pdb
+C:\Users\alumno.ET37\Desktop\TP Grupo Matrices\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Charca\OneDrive\Escritorio\TP Grupo Matrices2\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe.config
+C:\Users\Ariel Charca\OneDrive\Escritorio\TP Grupo Matrices2\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.exe
+C:\Users\Ariel Charca\OneDrive\Escritorio\TP Grupo Matrices2\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.pdb
+C:\Users\Ariel Charca\OneDrive\Escritorio\TP Grupo Matrices2\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.exe
+C:\Users\Ariel Charca\OneDrive\Escritorio\TP Grupo Matrices2\TP Grupo Matrices\bin\Debug\TP Grupo Matrices.pdb
+C:\Users\Ariel Charca\OneDrive\Escritorio\TP Grupo Matrices2\TP Grupo Matrices\obj\Debug\TP Grupo Matrices.csprojResolveAssemblyReference.cache
