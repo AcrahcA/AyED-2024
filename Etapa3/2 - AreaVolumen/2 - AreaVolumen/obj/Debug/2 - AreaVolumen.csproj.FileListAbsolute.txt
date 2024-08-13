@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa3\2 - AreaVolumen\2 - AreaVolumen\bin\Debug\2 - AreaVolumen.exe.config
+C:\Users\alumno.ET37\Documents\Etapa3\2 - AreaVolumen\2 - AreaVolumen\bin\Debug\2 - AreaVolumen.exe
+C:\Users\alumno.ET37\Documents\Etapa3\2 - AreaVolumen\2 - AreaVolumen\bin\Debug\2 - AreaVolumen.pdb
+C:\Users\alumno.ET37\Documents\Etapa3\2 - AreaVolumen\2 - AreaVolumen\obj\Debug\2 - AreaVolumen.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa3\2 - AreaVolumen\2 - AreaVolumen\obj\Debug\2 - AreaVolumen.exe
+C:\Users\alumno.ET37\Documents\Etapa3\2 - AreaVolumen\2 - AreaVolumen\obj\Debug\2 - AreaVolumen.pdb
