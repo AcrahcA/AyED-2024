@@ -1,0 +1,15 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.pdb
+D:\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.exe.config
+D:\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.exe
+D:\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.pdb
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.exe.config
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.exe
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.pdb
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.exe
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\bin\Debug\1 - SistemaDeConversiones.pdb
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\1 - SistemaDeConversiones\1 - SistemaDeConversiones\obj\Debug\1 - SistemaDeConversiones.csprojResolveAssemblyReference.cache

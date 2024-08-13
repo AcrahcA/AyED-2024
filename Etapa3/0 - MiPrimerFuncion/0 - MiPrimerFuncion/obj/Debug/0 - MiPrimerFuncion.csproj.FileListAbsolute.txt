@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\bin\Debug\0 - MiPrimerFuncion.exe.config
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\bin\Debug\0 - MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\bin\Debug\0 - MiPrimerFuncion.pdb
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\obj\Debug\0 - MiPrimerFuncion.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\obj\Debug\0 - MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\Charca2024\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\obj\Debug\0 - MiPrimerFuncion.pdb
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\bin\Debug\0 - MiPrimerFuncion.exe.config
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\obj\Debug\0 - MiPrimerFuncion.exe
+C:\Users\Ariel Charca\OneDrive\Escritorio\Etapa3\0 - MiPrimerFuncion\0 - MiPrimerFuncion\obj\Debug\0 - MiPrimerFuncion.pdb
