@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\bin\Debug\0 - ConversorTemperaturasGUI.exe.config
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\bin\Debug\0 - ConversorTemperaturasGUI.exe
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\bin\Debug\0 - ConversorTemperaturasGUI.pdb
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\obj\Debug\0 - ConversorTemperaturasGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\obj\Debug\_0___ConversorTemperaturasGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\obj\Debug\_0___ConversorTemperaturasGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\obj\Debug\0 - ConversorTemperaturasGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\obj\Debug\0 - ConversorTemperaturasGUI.exe
+C:\Users\alumno.ET37\Documents\Etapa 4\0 - ConversorTemperaturasGUI\0 - ConversorTemperaturasGUI\obj\Debug\0 - ConversorTemperaturasGUI.pdb
