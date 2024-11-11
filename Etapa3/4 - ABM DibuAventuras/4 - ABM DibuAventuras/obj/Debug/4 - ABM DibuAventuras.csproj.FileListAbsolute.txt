@@ -1,0 +1,6 @@
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\4 - ABM DibuAventuras.exe.config
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\4 - ABM DibuAventuras.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\4 - ABM DibuAventuras.pdb
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\4 - ABM DibuAventuras.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\4 - ABM DibuAventuras.exe
+C:\Users\Ariel Charca\Downloads\Charca2024\Etapa3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\4 - ABM DibuAventuras.pdb
