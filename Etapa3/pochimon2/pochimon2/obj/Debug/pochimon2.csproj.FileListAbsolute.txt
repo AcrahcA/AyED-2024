@@ -1,6 +1,0 @@
-C:\Users\Ariel Charca\Downloads\Charca2024\pochimon2\pochimon2\bin\Debug\pochimon2.exe.config
-C:\Users\Ariel Charca\Downloads\Charca2024\pochimon2\pochimon2\bin\Debug\pochimon2.exe
-C:\Users\Ariel Charca\Downloads\Charca2024\pochimon2\pochimon2\bin\Debug\pochimon2.pdb
-C:\Users\Ariel Charca\Downloads\Charca2024\pochimon2\pochimon2\obj\Debug\pochimon2.csprojResolveAssemblyReference.cache
-C:\Users\Ariel Charca\Downloads\Charca2024\pochimon2\pochimon2\obj\Debug\pochimon2.exe
-C:\Users\Ariel Charca\Downloads\Charca2024\pochimon2\pochimon2\obj\Debug\pochimon2.pdb
